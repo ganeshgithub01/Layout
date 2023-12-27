@@ -1,0 +1,68 @@
+/* img{
+
+    margin-top: 20px;
+    position:relative;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    position: sticky;
+
+} */
+
+nav{
+
+    background-color: #65B741;
+}
+
+#cont
+{
+    display: flex;
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    margin:0px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+}
+
+a:hover
+{
+
+    background-color: lavender;
+    color: darkblue;
+}
+
+#menu
+{
+    list-style-type: none;
+    padding:0px;
+    position:absolute;
+    /* top:20px; */
+    display: none;
+
+}
+
+nav{
+    background-color: blue;
+}
+
+
+#drop:hover #menu
+{
+
+    display: block;
+}
+
+
+#hg
+{
+    
+}
